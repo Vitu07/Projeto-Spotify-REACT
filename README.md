@@ -5,6 +5,7 @@ Um clone do Spotify desenvolvido em React, com funcionalidades como busca de art
 ## 💻 Demonstração
 
 ![image](https://github.com/user-attachments/assets/4eaa4ccf-45e8-4026-8d7e-66e82a3826f7)
+---
 ![image](https://github.com/user-attachments/assets/2d13ed7a-2df9-46b6-af3c-eebfb32d5818)
 
 
