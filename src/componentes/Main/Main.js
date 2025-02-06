@@ -19,11 +19,11 @@ import Playlist15 from '../../assets/playlist/15.jpeg';
 const Main = ({isSearchActive} ) => {
 
     const greeting = () => {
-        const hora = new Date().getHours();
+        const hour = new Date().getHours();
     
-        if (hora >= 5 && hora < 12) {
+        if (hour >= 5 && hour < 12) {
           return "Bom dia";
-        } else if (hora >= 12 && hora < 18) {
+        } else if (hour >= 12 && hour < 18) {
           return "Boa tarde";
         } else {
           return "Boa noite";
